@@ -1,0 +1,23 @@
+{
+    "name": "react-native-blush",
+    "version": "0.0.1",
+    "description": "Enhanced stylesheet for react native.",
+    "main": "src/index.js",
+    "keywords": [
+        "stylesheet",
+        "component",
+        "react-native"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oussamajabnouni/react-native-blush.git"
+    },
+    "bugs": {
+        "url": "https://github.com/oussamajabnouni/react-native-blush/issues"
+    },
+    "author": "Oussama Jabnouni",
+    "license": "MIT",
+    "dependencies": {
+        "react-native": "^0.57.2"
+    }
+}
